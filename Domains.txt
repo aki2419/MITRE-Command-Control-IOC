@@ -1609,7 +1609,6 @@ docs.oasis-open.org
 ubuntuguru.strangled.net
 dankrusi.com
 winsim.com
-schemas.xmlsoap.org
 sn-server1.mailserver.com
 news.bpyoyo.com
 asp.businessconsults.net
