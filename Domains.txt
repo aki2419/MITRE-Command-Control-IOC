@@ -1314,7 +1314,6 @@ update.itresolver.online
 goldenlines.site
 update.nextdata.site
 vitaminmain.info
-t2m.io
 brevini-france.cf
 onedrivenet.xyz
 diamondfoxpanel.ml
@@ -1605,7 +1604,6 @@ exchangeserver.user1domain.com
 evil.com
 actividentity.com
 ns.issnbgkit.net
-docs.oasis-open.org
 ubuntuguru.strangled.net
 dankrusi.com
 winsim.com
